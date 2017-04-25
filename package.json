@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "#### basic test coverage for  anyproxy (v3.10.4)  [![npm package](https://img.shields.io/npm/v/npmtest-anyproxy.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-anyproxy) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-anyproxy.svg)](https://travis-ci.org/npmtest/node-npmtest-anyproxy)",
+    "description": "#### basic test coverage for  [anyproxy (v3.10.4)](https://github.com/alibaba/anyproxy#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-anyproxy.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-anyproxy) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-anyproxy.svg)](https://travis-ci.org/npmtest/node-npmtest-anyproxy)",
     "devDependencies": {
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
         "utility2": "kaizhu256/node-utility2#alpha"
